@@ -1,2 +1,2 @@
 # ESP32-SubsciberCounter
-Displays your Youtube subscibers onto a display
+Displays the number of subscribers to your Youtube channel
